@@ -10,7 +10,7 @@ The repository contains these folders:
 - **CTB (Mars 2 Pro)** – print-ready files for [Elegoo Mars 2 Pro](https://www.elegoo.com/collections/mars-series/products/elegoo-mars-2-pro-mono-lcd-3d-printer) and Elegoo water-washable resin.
 - **Assets** – folder that contain images and actual photos of keycaps.
 
-There are six variants of keycaps:
+There are currently seven variants of keycaps:
 
 - **Normal**. Just a flat keycap profile with a small recess, that is soothing for fingers.
 - **Normal Tilted**. Same as Normal, but top profile has a 15° tilt and 0.5mm upward height compensation.
