@@ -14,6 +14,7 @@ There are six variants of keycaps:
 
 - **Normal**. Just a flat keycap profile with a small recess, that is soothing for fingers.
 - **Normal Tilted**. Same as Normal, but top profile has a 15° tilt and 0.5mm upward height compensation.
+- **Normal Homing**. Has three little bumps that is useful to determine home positions.
 - **Thumb**. Same as Normal, but top profile has a cut along down side.
 - **Saddle**. Same as Thumb, but top profile has two symmetrical cuts.
 - **Saddle Tilted**. Tilted version of Saddle. Same 15° and height compensation.
