@@ -1,6 +1,6 @@
-![](./Assets/KLP_Lame_Preview.jpg)
+![](./Assets/KLP_Lame_Preview_All.jpg)
 
-# KLP Lamé — Kailh Low Profile Keycaps
+# KLP Lamé — Kailh Choc & MX Keycaps
 
 The repository contains these folders:
 
