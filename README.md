@@ -20,6 +20,19 @@ There are currently seven variants of keycaps:
 - **Saddle Tilted**. Tilted version of Saddle. Same 15° and height compensation.
 - **Saddle Homing**. Has three little bumps that is useful to determine home positions.
 
+## What caps do I need for my keyboard?
+
+It depends. For corne-like keyboards with 36-keys I use:
+
+- 20 Saddle Tilted (for top and bottom rows)
+- 16 Saddle (10 for home row + 6 for thumbs)
+
+or
+
+- 20 Normal Tilted (for top and bottom rows)
+- 10 Normal (for home row)
+- 6 Thumb
+
 ## How to print?
 
 It is best to position the model more vertically to avoid tactile layer-to-layer bumps.
