@@ -41,18 +41,18 @@ It is best to position the model more vertically to avoid tactile layer-to-layer
 
 There are combined files, at least for Choc version:
 
-[`KLP-Lame-36-keys-Saddle-Combined`](./STL/Choc/Combined/KLP-Lame-36-keys-Saddle-Combined.stl) that contains:
+[`KLP-Lame-18-keys-Saddle-Combined`](./STL/Choc/Combined/KLP-Lame-18-keys-Saddle-Combined.stl) that contains:
 
-- 20 × Saddle Tilted (for top and bottom rows)
-- 14 × Saddle (home row and thumbs)
-- 2 × Saddle Homing
+- 10 × Saddle Tilted (for top and bottom rows)
+- 7 × Saddle (home row and thumbs)
+- 1 × Saddle Homing
 
-[`KLP-Lame-36-keys-Normal-Combined`](./STL/Choc/Combined/KLP-Lame-36-keys-Normal-Combined.stl) that contains:
+[`KLP-Lame-18-keys-Normal-Combined`](./STL/Choc/Combined/KLP-Lame-18-keys-Normal-Combined.stl) that contains:
 
-- 20 × Normal Tilted (for top and bottom rows)
-- 8 × Normal (for home row)
-- 2 × Normal Homing
-- 6 × Thumb
+- 10 × Normal Tilted (for top and bottom rows)
+- 4 × Normal (for home row)
+- 3 × Thumb
+- 1 × Normal Homing
 
 You can use these files in any 3D-printing service (like [JLCPCB](https://3d.jlcpcb.com/3d-printing/stereolithography) or [PCBWay](https://www.pcbway.com/rapid-prototyping/3d-printing/))
 
