@@ -39,22 +39,34 @@ It is best to position the model more vertically to avoid tactile layer-to-layer
 
 > Personally, I use 45° or 75° angle, but it's up to you.
 
-There are combined files, at least for Choc version:
+There are combined files, at least for Choc version that you can use in any 3D-printing service like [JLCPCB](https://3d.jlcpcb.com/3d-printing/stereolithography) or [PCBWay](https://www.pcbway.com/rapid-prototyping/3d-printing/).
 
-[`KLP-Lame-18-keys-Saddle-Combined`](./STL/Choc/Combined/KLP-Lame-18-keys-Saddle-Combined.stl) that contains:
+### Saddle
 
-- 10 × Saddle Tilted (for top and bottom rows)
-- 7 × Saddle (home row and thumbs)
+[`KLP-Lame-Saddle-6ST-3S-Combined`](./STL/Choc/Combined/KLP-Lame-Saddle-6ST-3S-Combined.stl) that contains:
+
+- 6 × Saddle Tilted
+- 3 × Saddle
+
+[`KLP-Lame-Saddle-4ST-4S-1SH-Combined`](./STL/Choc/Combined/KLP-Lame-Saddle-4ST-4S-1SH-Combined.stl) that contains:
+
+- 4 × Saddle Tilted
+- 4 × Saddle
 - 1 × Saddle Homing
 
-[`KLP-Lame-18-keys-Normal-Combined`](./STL/Choc/Combined/KLP-Lame-18-keys-Normal-Combined.stl) that contains:
+### Normal
 
-- 10 × Normal Tilted (for top and bottom rows)
-- 4 × Normal (for home row)
+[`KLP-Lame-Normal-6NT-3N-Combined`](./STL/Choc/Combined/KLP-Lame-Normal-6NT-3N-Combined.stl) that contains:
+
+- 6 × Normal Tilted
+- 3 × Normal
+
+[`KLP-Lame-Normal-4NT-3TH-1NH-1N-Combined`](./STL/Choc/Combined/KLP-Lame-Normal-4NT-3TH-1NH-1N-Combined.stl) that contains:
+
+- 4 × Normal Tilted
 - 3 × Thumb
 - 1 × Normal Homing
-
-You can use these files in any 3D-printing service (like [JLCPCB](https://3d.jlcpcb.com/3d-printing/stereolithography) or [PCBWay](https://www.pcbway.com/rapid-prototyping/3d-printing/))
+- 1 × Normal
 
 ## Warning
 
