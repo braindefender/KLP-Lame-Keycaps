@@ -48,12 +48,24 @@ It is best to position the model more vertically to avoid tactile layer-to-layer
 
 `STL/Choc-Combined` and `STL/MX-Combined` contains files that you can use in any 3D-printing service like [JLCPCB](https://3d.jlcpcb.com/3d-printing/stereolithography) or [PCBWay](https://www.pcbway.com/rapid-prototyping/3d-printing/). You can download them directly using links below:
 
-| File          | Choc                                                                                                         | MX                                                                                                            |
-| :------------ | :----------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ |
-| Normal Part 1 | [Download](./STL/Choc-Combined/KLP_Lame_Normal-6xNormal_Tilted-3xNormal-Combined.7z)                         | [Download](./STL/MX-Combined/KLP_Lame_MX-Normal-6xNormal_Tilted-3xNormal-Combined.7z)                         |
-| Normal Part 2 | [Download](./STL/Choc-Combined/KLP_Lame_Normal-4xNormal_Tilted-3xThumb-1xNormal_Homing-1xNormal-Combined.7z) | [Download](./STL/MX-Combined/KLP_Lame_MX-Normal-4xNormal_Tilted-3xThumb-1xNormal_Homing-1xNormal-Combined.7z) |
-| Saddle Part 1 | [Download](./STL/Choc-Combined/KLP_Lame_Saddle-6xSaddle_Tilted-3xSaddle-Combined.7z)                         | [Download](./STL/MX-Combined/KLP_Lame_MX-Saddle-6xSaddle_Tilted-3xSaddle-Combined.7z)                         |
-| Saddle Part 2 | [Download](./STL/Choc-Combined/KLP_Lame_Saddle-4xSaddle_Tilted-4xSaddle-1xSaddle_Homing-Combined.7z)         | [Download](./STL/MX-Combined/KLP_Lame_MX-Saddle-4xSaddle_Tilted-4xSaddle-1xSaddle_Homing-Combined.7z)         |
+| File          | Choc                           | MX                           |
+|:--------------|:-------------------------------|:-----------------------------|
+| Normal Part 1 | [Download][normal-part-1-choc] | [Download][normal-part-1-mx] |
+| Normal Part 2 | [Download][normal-part-2-choc] | [Download][normal-part-2-mx] |
+| Saddle Part 1 | [Download][saddle-part-1-choc] | [Download][saddle-part-1-mx] |
+| Saddle Part 2 | [Download][saddle-part-2-choc] | [Download][saddle-part-2-mx] |
+
+
+[normal-part-1-choc]: ./STL/Choc-Combined/KLP_Lame_Normal-6xNormal_Tilted-3xNormal-Combined.7z
+[normal-part-1-mx]: ./STL/MX-Combined/KLP_Lame_MX-Normal-6xNormal_Tilted-3xNormal-Combined.7z
+[normal-part-2-choc]: ./STL/Choc-Combined/KLP_Lame_Normal-4xNormal_Tilted-3xThumb-1xNormal_Homing-1xNormal-Combined.7z
+[normal-part-2-mx]: ./STL/MX-Combined/KLP_Lame_MX-Normal-4xNormal_Tilted-3xThumb-1xNormal_Homing-1xNormal-Combined.7z
+[saddle-part-1-choc]: ./STL/Choc-Combined/KLP_Lame_Saddle-6xSaddle_Tilted-3xSaddle-Combined.7z
+[saddle-part-1-mx]: ./STL/MX-Combined/KLP_Lame_MX-Saddle-6xSaddle_Tilted-3xSaddle-Combined.7z
+[saddle-part-2-choc]: ./STL/Choc-Combined/KLP_Lame_Saddle-4xSaddle_Tilted-4xSaddle-1xSaddle_Homing-Combined.7z
+[saddle-part-2-mx]: ./STL/MX-Combined/KLP_Lame_MX-Saddle-4xSaddle_Tilted-4xSaddle-1xSaddle_Homing-Combined.7z
+
+
 
 **Normal Part 1**:
 - 6 × Normal Tilted
