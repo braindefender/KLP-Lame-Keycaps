@@ -1,16 +1,16 @@
-![](./Assets/KLP_Lame_Preview_All.jpg)
+![](./Assets/KLP_Lame_Preview_All_New.jpg)
 
 # KLP Lamé — Kailh Choc & MX Keycaps
 
-The repository contains these folders:
+Sculpted and curved keycaps for Kailh Choc and MX switches. Here is a project structure:
 
-| Folder         | Description                                                                                                |
-| :------------- | :--------------------------------------------------------------------------------------------------------- |
-| **Fusion 360** | Source files for [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview)              |
-| **STL**        | 3D models for any CAD of Slicer software                                                                   |
-| **Lychee**     | Project files for [Lychee Slicer](https://mango3d.io/). You might need to update model paths to edit files |
-| **Blender**    | Blender files for Preview and managing Combined versions                                                   |
-| **Assets**     | Images and actual photos of keycaps                                                                        |
+| Folder              | Description                                                                                    |
+| :------------------ | :--------------------------------------------------------------------------------------------- |
+| **Assets**          | Various images and actual photos of keycaps                                                    |
+| **Blender**         | Blender files for [Combined Versions](#how-to-print) and rendering preview image               |
+| **Fusion 360**      | Source files for [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview)  |
+| **Lychee (Legacy)** | Project files for [Lychee Slicer](https://mango3d.io/). Use it only for the supports reference |
+| **STL**             | 3D models for any CAD of Slicer software                                                       |
 
 There are currently 7 variants of keycaps:
 | Variant           | Description                                                                         |
@@ -44,44 +44,37 @@ or
 
 ## How to print?
 
-It is best to position the model more vertically to avoid tactile layer-to-layer bumps.
+It is best to position the model more vertically to avoid tactile layer-to-layer bumps. Personally, I use 45° or 75° angle, but it's up to you.
 
-> Personally, I use 45° or 75° angle, but it's up to you.
+`STL/Choc-Combined` and `STL/MX-Combined` contains files that you can use in any 3D-printing service like [JLCPCB](https://3d.jlcpcb.com/3d-printing/stereolithography) or [PCBWay](https://www.pcbway.com/rapid-prototyping/3d-printing/). You can download them directly using links below:
 
-There are **Combined** files for Choc and MX verstions that you can use in any 3D-printing service like [JLCPCB](https://3d.jlcpcb.com/3d-printing/stereolithography) or [PCBWay](https://www.pcbway.com/rapid-prototyping/3d-printing/).
+| File          | Choc                                                                                                         | MX                                                                                                            |
+| :------------ | :----------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ |
+| Normal Part 1 | [Download](./STL/Choc-Combined/KLP_Lame_Normal-6xNormal_Tilted-3xNormal-Combined.7z)                         | [Download](./STL/MX-Combined/KLP_Lame_MX-Normal-6xNormal_Tilted-3xNormal-Combined.7z)                         |
+| Normal Part 2 | [Download](./STL/Choc-Combined/KLP_Lame_Normal-4xNormal_Tilted-3xThumb-1xNormal_Homing-1xNormal-Combined.7z) | [Download](./STL/MX-Combined/KLP_Lame_MX-Normal-4xNormal_Tilted-3xThumb-1xNormal_Homing-1xNormal-Combined.7z) |
+| Saddle Part 1 | [Download](./STL/Choc-Combined/KLP_Lame_Saddle-6xSaddle_Tilted-3xSaddle-Combined.7z)                         | [Download](./STL/MX-Combined/KLP_Lame_MX-Saddle-6xSaddle_Tilted-3xSaddle-Combined.7z)                         |
+| Saddle Part 2 | [Download](./STL/Choc-Combined/KLP_Lame_Saddle-4xSaddle_Tilted-4xSaddle-1xSaddle_Homing-Combined.7z)         | [Download](./STL/MX-Combined/KLP_Lame_MX-Saddle-4xSaddle_Tilted-4xSaddle-1xSaddle_Homing-Combined.7z)         |
 
-### Saddle
-
-`KLP-Lame-Saddle-6ST-3S-Combined` ([Choc](./STL/Choc/Combined/KLP-Lame-Saddle-6ST-3S-Combined.stl) / [MX](./STL/MX/Combined/KLP-Lame-MX-Saddle-6ST-3S-Combined.stl)) that contains:
-
-- 6 × Saddle Tilted
-- 3 × Saddle
-
-`KLP-Lame-Saddle-4ST-4S-1SH-Combined` ([Choc](./STL/Choc/Combined/KLP-Lame-Saddle-4ST-4S-1SH-Combined.stl) / [MX](./STL/MX/Combined/KLP-Lame-MX-Saddle-4ST-4S-1SH-Combined.stl)) that contains:
-
-- 4 × Saddle Tilted
-- 4 × Saddle
-- 1 × Saddle Homing
-
-### Normal
-
-`KLP-Lame-Normal-6NT-3N-Combined` ([Choc](./STL/Choc/Combined/KLP-Lame-Normal-6NT-3N-Combined.stl) / [MX](./STL/MX/Combined/KLP-Lame-MX-Normal-6NT-3N-Combined.stl)) that contains:
-
+**Normal Part 1**:
 - 6 × Normal Tilted
 - 3 × Normal
 
-`KLP-Lame-Normal-4NT-3TH-1NH-1N-Combined`: ([Choc](./STL/Choc/Combined/KLP-Lame-Normal-4NT-3TH-1NH-1N-Combined.stl) / [MX](./STL/MX/Combined/KLP-Lame-MX-Normal-4NT-3TH-1NH-1N-Combined.stl)) that contains:
-
+**Normal Part 2**:
 - 4 × Normal Tilted
 - 3 × Thumb
 - 1 × Normal Homing
 - 1 × Normal
 
-> So, for 36 keys you'll need to order each of these files twice (two for each part of split)
+**Saddle Part 1**:
+- 6 × Saddle Tilted
+- 3 × Saddle
 
-## Warning
+**Saddle Part 2**:
+- 4 × Saddle Tilted
+- 4 × Saddle
+- 1 × Saddle Homing
 
-It's better to use original STL files instead of Lychee project files as it contains my settings for my particular printer. Use them as an example of making supports and tune them to achieve best quality for your setup.
+> Warning! Lychee project files are deprecated and should be used only as example of making supports. Better to use the original STL files instead.
 
 ## Can I use these models for a production and sale?
 
@@ -95,9 +88,11 @@ Yes. Rules are the same. Give a credit to the author.
 
 v1.1
 
-- Added chamfers along inner bottom line (1.2mm for Choc and 1.4mm for MX)
-- Added separate Fusion project files
-- Changed Images & Photos
+- [Models] Added chamfers along inner bottom line (1.2mm for Choc and 1.4mm for MX).
+- [Project] Added separate Fusion project files
+- [Project] Changed Images & Photos
+
+> Now the models are also suitable for FDM 3D Printers. But I still recommend using SLA for the best quality.
 
 v1.0
 
