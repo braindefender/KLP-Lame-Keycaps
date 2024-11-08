@@ -48,12 +48,12 @@ It is best to position the model more vertically to avoid tactile layer-to-layer
 
 `STL/Choc-Combined` and `STL/MX-Combined` contains files that you can use in any 3D-printing service like [JLCPCB](https://3d.jlcpcb.com/3d-printing/stereolithography) or [PCBWay](https://www.pcbway.com/rapid-prototyping/3d-printing/). You can download them directly using links below:
 
-| File          | Choc                           | MX                           |
-|:--------------|:-------------------------------|:-----------------------------|
-| Normal Part 1 | [Download][normal-part-1-choc] | [Download][normal-part-1-mx] |
-| Normal Part 2 | [Download][normal-part-2-choc] | [Download][normal-part-2-mx] |
-| Saddle Part 1 | [Download][saddle-part-1-choc] | [Download][saddle-part-1-mx] |
-| Saddle Part 2 | [Download][saddle-part-2-choc] | [Download][saddle-part-2-mx] |
+| File          | Choc                           | MX                           | Kinds                                                                        |
+|:--------------|:-------------------------------|:-----------------------------|------------------------------------------------------------------------------|
+| Normal Part 1 | [Download][normal-part-1-choc] | [Download][normal-part-1-mx] | - 6 × Normal Tilted<br/>- 3 × Normal                                         |
+| Normal Part 2 | [Download][normal-part-2-choc] | [Download][normal-part-2-mx] | - 4 × Normal Tilted<br/>- 3 × Thumb<br/>- 1 × Normal Homing<br/>- 1 × Normal |
+| Saddle Part 1 | [Download][saddle-part-1-choc] | [Download][saddle-part-1-mx] | - 6 × Saddle Tilted<br/>- 3 × Saddle                                         |
+| Saddle Part 2 | [Download][saddle-part-2-choc] | [Download][saddle-part-2-mx] | - 4 × Saddle Tilted<br/>- 4 × Saddle<br/>- 1 × Saddle Homing                 |
 
 
 [normal-part-1-choc]: ./STL/Choc-Combined/KLP_Lame_Normal-6xNormal_Tilted-3xNormal-Combined.7z
@@ -65,26 +65,6 @@ It is best to position the model more vertically to avoid tactile layer-to-layer
 [saddle-part-2-choc]: ./STL/Choc-Combined/KLP_Lame_Saddle-4xSaddle_Tilted-4xSaddle-1xSaddle_Homing-Combined.7z
 [saddle-part-2-mx]: ./STL/MX-Combined/KLP_Lame_MX-Saddle-4xSaddle_Tilted-4xSaddle-1xSaddle_Homing-Combined.7z
 
-
-
-**Normal Part 1**:
-- 6 × Normal Tilted
-- 3 × Normal
-
-**Normal Part 2**:
-- 4 × Normal Tilted
-- 3 × Thumb
-- 1 × Normal Homing
-- 1 × Normal
-
-**Saddle Part 1**:
-- 6 × Saddle Tilted
-- 3 × Saddle
-
-**Saddle Part 2**:
-- 4 × Saddle Tilted
-- 4 × Saddle
-- 1 × Saddle Homing
 
 > Warning! Lychee project files are deprecated and should be used only as example of making supports. Better to use the original STL files instead.
 
