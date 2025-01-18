@@ -10,7 +10,8 @@ Sculpted and curved keycaps for Kailh Choc and MX switches. Here is a project st
 | **Blender**         | Blender files for [Combined Versions](#how-to-print) and rendering preview image               |
 | **Fusion 360**      | Source files for [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview)  |
 | **Lychee (Legacy)** | Project files for [Lychee Slicer](https://mango3d.io/). Use it only for the supports reference |
-| **STL**             | 3D models for any CAD of Slicer software                                                       |
+| **STEP**            | 3D models in STEP format for any CAD or Slicer software                                        |
+| **STL**             | 3D models in STL format for any CAD or Slicer software                                         |
 
 There are currently 7 variants of keycaps:
 | Variant           | Description                                                                         |
@@ -49,7 +50,7 @@ It is best to position the model more vertically to avoid tactile layer-to-layer
 `STL/Choc-Combined` and `STL/MX-Combined` contains files that you can use in any 3D-printing service like [JLCPCB](https://3d.jlcpcb.com/3d-printing/stereolithography) or [PCBWay](https://www.pcbway.com/rapid-prototyping/3d-printing/). You can download them directly using links below:
 
 | File          | Choc                           | MX                           | Kinds                                                                        |
-|:--------------|:-------------------------------|:-----------------------------|------------------------------------------------------------------------------|
+| :------------ | :----------------------------- | :--------------------------- | ---------------------------------------------------------------------------- |
 | Normal Part 1 | [Download][normal-part-1-choc] | [Download][normal-part-1-mx] | - 6 × Normal Tilted<br/>- 3 × Normal                                         |
 | Normal Part 2 | [Download][normal-part-2-choc] | [Download][normal-part-2-mx] | - 4 × Normal Tilted<br/>- 3 × Thumb<br/>- 1 × Normal Homing<br/>- 1 × Normal |
 | Saddle Part 1 | [Download][saddle-part-1-choc] | [Download][saddle-part-1-mx] | - 6 × Saddle Tilted<br/>- 3 × Saddle                                         |
