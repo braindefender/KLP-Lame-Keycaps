@@ -79,6 +79,9 @@ Yes. Rules are the same. Give a credit to the author.
 
 ## Changelog
 
+v1.2
+- [Models] Added choc version with 90° rotated stem
+
 v1.1
 
 - [Models] Added chamfers along inner bottom line (1.2mm for Choc and 1.4mm for MX).
