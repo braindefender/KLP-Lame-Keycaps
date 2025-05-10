@@ -13,7 +13,7 @@ Sculpted and curved keycaps for Kailh Choc and MX switches. Here is a project st
 | **STEP**       | 3D models in STEP format for any CAD or Slicer software                                       |
 | **STL**        | 3D models in STL format for any CAD or Slicer software                                        |
 
-> `STEP` and `STL` folders contain all combinations of Choc/MX Stem + Choc/MX Size. There is also `90 deg Rotated` variants for Choc Stem.
+> `STEP` and `STL` folders contain all combinations of Choc/MX Stem + Choc/MX Size.<br>There is also `90 deg Rotated` variants for Choc Stem.
 
 There are currently 7 variants of keycaps:
 | Variant           | Description                                                                         |
@@ -120,7 +120,7 @@ By unknown from [KlavaOrgWork](https://t.me/klavaorgwork)
 
 ![](./Assets/KLP-Lame-Lapka-Preview.jpg)
 
-> The keyboard is my side-project [Lapka]()
+> The keyboard is my side-project [Lapka](https://github.com/braindefender/lapka)
 
 ![](./Assets/KLP-Lame-Cantor-Preview.jpg)
 ![](./Assets/KLP-Lame-Cantor-Preview-Side.jpg)
