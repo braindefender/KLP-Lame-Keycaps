@@ -4,14 +4,16 @@
 
 Sculpted and curved keycaps for Kailh Choc and MX switches. Here is a project structure:
 
-| Folder              | Description                                                                                    |
-| :------------------ | :--------------------------------------------------------------------------------------------- |
-| **Assets**          | Various images and actual photos of keycaps                                                    |
-| **Blender**         | Blender files for [Combined Versions](#how-to-print) and rendering preview image               |
-| **Fusion 360**      | Source files for [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview)  |
-| **Lychee (Legacy)** | Project files for [Lychee Slicer](https://mango3d.io/). Use it only for the supports reference |
-| **STEP**            | 3D models in STEP format for any CAD or Slicer software                                        |
-| **STL**             | 3D models in STL format for any CAD or Slicer software                                         |
+| Folder         | Description                                                                                   |
+| :------------- | :-------------------------------------------------------------------------------------------- |
+| **Assets**     | Various images and actual photos of keycaps                                                   |
+| **Blender**    | Blender files for [Combined Versions](#how-to-print) and rendering preview image              |
+| **Fusion 360** | Source files for [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview) |
+| **Production** | Combined STL 3D models suitable for 3D-Printing services (like [JLC3DP](https://jlc3dp.com))  |
+| **STEP**       | 3D models in STEP format for any CAD or Slicer software                                       |
+| **STL**        | 3D models in STL format for any CAD or Slicer software                                        |
+
+> `STEP` and `STL` folders contain all combinations of Choc/MX Stem + Choc/MX Size. There is also `90 deg Rotated` variants for Choc Stem.
 
 There are currently 7 variants of keycaps:
 | Variant           | Description                                                                         |
@@ -26,7 +28,9 @@ There are currently 7 variants of keycaps:
 
 ## What keycaps do I need for my keyboard?
 
-First, you should pick Choc or MX stem variant. Then, for keycap set there are some variants that depends entirely of your choice.
+First, you should choose Choc/MX stem (depends of your switches)<br>
+Second, choose Choc/MX size that is suitable for your keyboard.<br>
+Then, pick what keycap variants you want for your columns/rows/thumbs. It depends entirely of your choice.
 
 For corne-like keyboards with 36-keys I use:
 
@@ -47,7 +51,7 @@ or
 
 It is best to position the model more vertically to avoid tactile layer-to-layer bumps. Personally, I use 45° or 75° angle, but it's up to you.
 
-`STL/Choc-Combined` and `STL/MX-Combined` contains files that you can use in any 3D-printing service like [JLCPCB](https://3d.jlcpcb.com/3d-printing/stereolithography) or [PCBWay](https://www.pcbway.com/rapid-prototyping/3d-printing/). You can download them directly using links below:
+`Production/Choc` and `Production/MX` contains files that you can use in any 3D-printing service like [JLC3DP](https://jlc3dp.com) or [PCBWay](https://www.pcbway.com/rapid-prototyping/3d-printing/). You can download them directly using links below:
 
 | File          | Choc                           | MX                           | Kinds                                                                        |
 | :------------ | :----------------------------- | :--------------------------- | ---------------------------------------------------------------------------- |
@@ -57,17 +61,14 @@ It is best to position the model more vertically to avoid tactile layer-to-layer
 | Saddle Part 2 | [Download][saddle-part-2-choc] | [Download][saddle-part-2-mx] | - 4 × Saddle Tilted<br/>- 4 × Saddle<br/>- 1 × Saddle Homing                 |
 
 
-[normal-part-1-choc]: ./STL/Choc-Combined/KLP_Lame_Normal-6xNormal_Tilted-3xNormal-Combined.7z
-[normal-part-1-mx]: ./STL/MX-Combined/KLP_Lame_MX-Normal-6xNormal_Tilted-3xNormal-Combined.7z
-[normal-part-2-choc]: ./STL/Choc-Combined/KLP_Lame_Normal-4xNormal_Tilted-3xThumb-1xNormal_Homing-1xNormal-Combined.7z
-[normal-part-2-mx]: ./STL/MX-Combined/KLP_Lame_MX-Normal-4xNormal_Tilted-3xThumb-1xNormal_Homing-1xNormal-Combined.7z
-[saddle-part-1-choc]: ./STL/Choc-Combined/KLP_Lame_Saddle-6xSaddle_Tilted-3xSaddle-Combined.7z
-[saddle-part-1-mx]: ./STL/MX-Combined/KLP_Lame_MX-Saddle-6xSaddle_Tilted-3xSaddle-Combined.7z
-[saddle-part-2-choc]: ./STL/Choc-Combined/KLP_Lame_Saddle-4xSaddle_Tilted-4xSaddle-1xSaddle_Homing-Combined.7z
-[saddle-part-2-mx]: ./STL/MX-Combined/KLP_Lame_MX-Saddle-4xSaddle_Tilted-4xSaddle-1xSaddle_Homing-Combined.7z
-
-
-> Warning! Lychee project files are deprecated and should be used only as example of making supports. Better to use the original STL files instead.
+[normal-part-1-choc]: ./Production/Choc/KLP_Lame_Normal-6xNormal_Tilted-3xNormal-Combined.7z
+[normal-part-2-choc]: ./Production/Choc/KLP_Lame_Normal-4xNormal_Tilted-3xThumb-1xNormal_Homing-1xNormal-Combined.7z
+[saddle-part-1-choc]: ./Production/Choc/KLP_Lame_Saddle-6xSaddle_Tilted-3xSaddle-Combined.7z
+[saddle-part-2-choc]: ./Production/Choc/KLP_Lame_Saddle-4xSaddle_Tilted-4xSaddle-1xSaddle_Homing-Combined.7z
+[normal-part-1-mx]: ./Production/MX/KLP_Lame_MX-Normal-6xNormal_Tilted-3xNormal-Combined.7z
+[normal-part-2-mx]: ./Production/MX/KLP_Lame_MX-Normal-4xNormal_Tilted-3xThumb-1xNormal_Homing-1xNormal-Combined.7z
+[saddle-part-1-mx]: ./Production/MX/KLP_Lame_MX-Saddle-6xSaddle_Tilted-3xSaddle-Combined.7z
+[saddle-part-2-mx]: ./Production/MX/KLP_Lame_MX-Saddle-4xSaddle_Tilted-4xSaddle-1xSaddle_Homing-Combined.7z
 
 ## Can I use these models for a production and sale?
 
@@ -79,33 +80,31 @@ Yes. Rules are the same. Give a credit to the author.
 
 ## Changelog
 
+v1.3
+- [Models] Added mix and match variants for Choc/MX Stem + Choc/MX Size.
+- [Project] Changed folder structure to accomodate mix and match variants.
+- [Project] Removed Lychee (legacy) project files.
+
 v1.2
-- [Models] Added choc version with 90° rotated stem
+- [Models] Added Choc version with 90° rotated stem.
 
 v1.1
 
 - [Models] Added chamfers along inner bottom line (1.2mm for Choc and 1.4mm for MX).
-- [Project] Added separate Fusion project files
-- [Project] Changed Images & Photos
+- [Project] Added separate Fusion project files.
+- [Project] Changed Images & Photos.
 
-> Now the models are also suitable for FDM 3D Printers. But I still recommend using SLA for the best quality.
+> Now the models are also suitable for FDM 3D Printers. But I still recommend using SLA for better quality.
 
 v1.0
 
-- Initial Release
+- Initial Release.
 
 ## Images & Photos
 
-### Original photos
-
-![](./Assets/KLP-Lame-Cantor-Preview.jpg)
-![](./Assets/KLP-Lame-Cantor-Preview-Side.jpg)
-
-> The keyboard is [Cantor Remix](https://github.com/nilokr/cantor-remix)
-
 ### From various awesome people
 
-![](./Assets/reddit-socopopes-9cws8sotb1bd1.jpeg)
+![](./Assets/reddit-socopopes-9cws8sotb1bd1.jpg)
 By [u/socopopes](https://www.reddit.com/user/socopopes/) from [Reddit](https://www.reddit.com/r/ErgoMechKeyboards/comments/1dx9d7j/down_14_more_keys_only_34_more_to_go/)
 
 ![](./Assets/reddit-bert_plasschaert-a16vk4g4na8d1.jpg)
@@ -117,6 +116,17 @@ By [proostas](https://t.me/proostas) from [Ergonaut Keyboards Ru](https://t.me/e
 ![](./Assets/unknown-8j3bn7a913sf4.jpg)
 By unknown from [KlavaOrgWork](https://t.me/klavaorgwork)
 
+### Original photos
+
+![](./Assets/KLP-Lame-Lapka-Preview.jpg)
+
+> The keyboard is my side-project [Lapka]()
+
+![](./Assets/KLP-Lame-Cantor-Preview.jpg)
+![](./Assets/KLP-Lame-Cantor-Preview-Side.jpg)
+
+> The keyboard is [Cantor Remix](https://github.com/nilokr/cantor-remix)
+
 ## Contacts
 
-@braindefender almost anywhere
+@braindefender almost anywhere (preferably, [Telegram](t.me/braindefender))
