@@ -129,4 +129,4 @@ By unknown from [KlavaOrgWork](https://t.me/klavaorgwork)
 
 ## Contacts
 
-@braindefender almost anywhere (preferably, [Telegram](t.me/braindefender))
+@braindefender (preferably, [Telegram](t.me/braindefender), but also [GMail](mailto:braindefender@gmail.com) and [Reddit](https://www.reddit.com/user/braindefender/))
