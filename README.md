@@ -51,7 +51,7 @@ or
 
 It is best to position the model more vertically to avoid tactile layer-to-layer bumps. Personally, I use 45° or 75° angle, but it's up to you.
 
-`Production/Choc` and `Production/MX` contains files that you can use in any 3D-printing service like [JLC3DP](https://jlc3dp.com) or [PCBWay](https://www.pcbway.com/rapid-prototyping/3d-printing/). You can download them directly using links below:
+`Production/Choc` and `Production/MX` contains files that you can use in any 3D-printing service like [JLC3DP](https://jlc3dp.com) or [PCBWay](https://www.pcbway.com/rapid-prototyping/3d-printing/). Currently, `Production` folder contain only `Choc Stem + Choc Size` and `MX Stem + MX Size` respectively. You can download them directly using links below:
 
 | File          | Choc                           | MX                           | Kinds                                                                        |
 | :------------ | :----------------------------- | :--------------------------- | ---------------------------------------------------------------------------- |
