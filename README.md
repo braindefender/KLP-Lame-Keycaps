@@ -61,14 +61,17 @@ It is best to position the model more vertically to avoid tactile layer-to-layer
 | Saddle Part 2 | [Download][saddle-part-2-choc] | [Download][saddle-part-2-mx] | - 4 × Saddle Tilted<br/>- 4 × Saddle<br/>- 1 × Saddle Homing                 |
 
 
-[normal-part-1-choc]: ./Production/Choc/KLP_Lame_Normal-6xNormal_Tilted-3xNormal-Combined.7z
-[normal-part-2-choc]: ./Production/Choc/KLP_Lame_Normal-4xNormal_Tilted-3xThumb-1xNormal_Homing-1xNormal-Combined.7z
-[saddle-part-1-choc]: ./Production/Choc/KLP_Lame_Saddle-6xSaddle_Tilted-3xSaddle-Combined.7z
-[saddle-part-2-choc]: ./Production/Choc/KLP_Lame_Saddle-4xSaddle_Tilted-4xSaddle-1xSaddle_Homing-Combined.7z
-[normal-part-1-mx]: ./Production/MX/KLP_Lame_MX-Normal-6xNormal_Tilted-3xNormal-Combined.7z
-[normal-part-2-mx]: ./Production/MX/KLP_Lame_MX-Normal-4xNormal_Tilted-3xThumb-1xNormal_Homing-1xNormal-Combined.7z
-[saddle-part-1-mx]: ./Production/MX/KLP_Lame_MX-Saddle-6xSaddle_Tilted-3xSaddle-Combined.7z
-[saddle-part-2-mx]: ./Production/MX/KLP_Lame_MX-Saddle-4xSaddle_Tilted-4xSaddle-1xSaddle_Homing-Combined.7z
+[normal-part-1-choc]: ./Production/Choc/Choc_Stem_Choc_Size_Normal_Part_1.zip
+[normal-part-2-choc]: ./Production/Choc/Choc_Stem_Choc_Size_Normal_Part_2.zip
+
+[saddle-part-1-choc]: ./Production/Choc/Choc_Stem_Choc_Size_Saddle_Part_1.zip
+[saddle-part-2-choc]: ./Production/Choc/Choc_Stem_Choc_Size_Saddle_Part_2.zip
+
+[normal-part-1-mx]: ./Production/MX/MX_Stem_MX_Size_Normal_Part_1.zip
+[normal-part-2-mx]: ./Production/MX/MX_Stem_MX_Size_Normal_Part_2.zip
+
+[saddle-part-1-mx]: ./Production/MX/MX_Stem_MX_Size_Saddle_Part_1.zip
+[saddle-part-2-mx]: ./Production/MX/MX_Stem_MX_Size_Saddle_Part_2.zip
 
 ## Can I use these models for a production and sale?
 
@@ -80,9 +83,14 @@ Yes. Rules are the same. Give a credit to the author.
 
 ## Changelog
 
+v1.4
+- [Models] Updated Choc Stem to be compatible with silent choc switches.
+- [Project] Added Choc_Stem + MX_Size 90° rotated variants (both STL and STEP).
+- [Production] Increased surface area of connected parts to improve print stability.
+
 v1.3
 - [Models] Added mix and match variants for Choc/MX Stem + Choc/MX Size.
-- [Project] Changed folder structure to accomodate mix and match variants.
+- [Project] Updated folder structure to accomodate mix and match variants.
 - [Project] Removed Lychee (legacy) project files.
 
 v1.2
@@ -92,7 +100,7 @@ v1.1
 
 - [Models] Added chamfers along inner bottom line (1.2mm for Choc and 1.4mm for MX).
 - [Project] Added separate Fusion project files.
-- [Project] Changed Images & Photos.
+- [Project] Updated Images & Photos.
 
 > Now the models are also suitable for FDM 3D Printers. But I still recommend using SLA for better quality.
 
