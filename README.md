@@ -51,27 +51,56 @@ or
 
 It is best to position the model more vertically to avoid tactile layer-to-layer bumps. Personally, I use 45° or 75° angle, but it's up to you.
 
-`Production/Choc` and `Production/MX` contains files that you can use in any 3D-printing service like [JLC3DP](https://jlc3dp.com) or [PCBWay](https://www.pcbway.com/rapid-prototyping/3d-printing/). Currently, `Production` folder contain only `Choc Stem + Choc Size` and `MX Stem + MX Size` respectively. You can download them directly using links below:
+`Production` folder contains files that you can use in any 3D-printing service like [JLC3DP](https://jlc3dp.com) or [PCBWay](https://www.pcbway.com/rapid-prototyping/3d-printing/). You can download them directly using links below:
 
-| File          | Choc                           | MX                           | Kinds                                                                        |
-| :------------ | :----------------------------- | :--------------------------- | ---------------------------------------------------------------------------- |
-| Normal Part 1 | [Download][normal-part-1-choc] | [Download][normal-part-1-mx] | - 6 × Normal Tilted<br/>- 3 × Normal                                         |
-| Normal Part 2 | [Download][normal-part-2-choc] | [Download][normal-part-2-mx] | - 4 × Normal Tilted<br/>- 3 × Thumb<br/>- 1 × Normal Homing<br/>- 1 × Normal |
-| Saddle Part 1 | [Download][saddle-part-1-choc] | [Download][saddle-part-1-mx] | - 6 × Saddle Tilted<br/>- 3 × Saddle                                         |
-| Saddle Part 2 | [Download][saddle-part-2-choc] | [Download][saddle-part-2-mx] | - 4 × Saddle Tilted<br/>- 4 × Saddle<br/>- 1 × Saddle Homing                 |
+### Normal
+
+| File          | Choc Stem + Choc Size          | Choc Stem + MX Size               | MX Stem + MX Size            | MX Stem + Choc Size               | Kinds                                                                        |
+| :------------ | :----------------------------- | :-------------------------------- | :--------------------------- | :-------------------------------- | ---------------------------------------------------------------------------- |
+| Normal Part 1 | [Download][normal-part-1-choc] | [Download][normal-part-1-choc-mx] | [Download][normal-part-1-mx] | [Download][normal-part-1-mx-choc] | - 6 × Normal Tilted<br/>- 3 × Normal                                         |
+| Normal Part 2 | [Download][normal-part-2-choc] | [Download][normal-part-2-choc-mx] | [Download][normal-part-2-mx] | [Download][normal-part-2-mx-choc] | - 4 × Normal Tilted<br/>- 3 × Thumb<br/>- 1 × Normal Homing<br/>- 1 × Normal |
+| Normal Part 3 | [Download][normal-part-3-choc] | [Download][normal-part-3-choc-mx] | [Download][normal-part-3-mx] | [Download][normal-part-3-mx-choc] | - 9 × Normal Tilted                                                          |
+
+### Saddle
+
+| File          | Choc Stem + Choc Size          | Choc Stem + MX Size               | MX Stem + MX Size            | MX Stem + Choc Size               | Kinds                                                        |
+| :------------ | :----------------------------- | :-------------------------------- | :--------------------------- | :-------------------------------- | ------------------------------------------------------------ |
+| Saddle Part 1 | [Download][saddle-part-1-choc] | [Download][saddle-part-1-choc-mx] | [Download][saddle-part-1-mx] | [Download][saddle-part-1-mx-choc] | - 6 × Saddle Tilted<br/>- 3 × Saddle                         |
+| Saddle Part 2 | [Download][saddle-part-2-choc] | [Download][saddle-part-2-choc-mx] | [Download][saddle-part-2-mx] | [Download][saddle-part-2-mx-choc] | - 4 × Saddle Tilted<br/>- 4 × Saddle<br/>- 1 × Saddle Homing |
+| Saddle Part 3 | [Download][saddle-part-3-choc] | [Download][saddle-part-3-choc-mx] | [Download][saddle-part-3-mx] | [Download][saddle-part-3-mx-choc] | - 9 × Saddle Tilted                                          |
 
 
-[normal-part-1-choc]: ./Production/Choc/Choc_Stem_Choc_Size_Normal_Part_1.zip
-[normal-part-2-choc]: ./Production/Choc/Choc_Stem_Choc_Size_Normal_Part_2.zip
+[normal-part-1-choc]: ./Production/Choc%20Stem%20%2B%20Choc%20Size/Choc_Stem_Choc_Size_Normal_Part_1.zip
+[normal-part-2-choc]: ./Production/Choc%20Stem%20%2B%20Choc%20Size/Choc_Stem_Choc_Size_Normal_Part_2.zip
+[normal-part-3-choc]: ./Production/Choc%20Stem%20%2B%20Choc%20Size/Choc_Stem_Choc_Size_Normal_Part_3.zip
 
-[saddle-part-1-choc]: ./Production/Choc/Choc_Stem_Choc_Size_Saddle_Part_1.zip
-[saddle-part-2-choc]: ./Production/Choc/Choc_Stem_Choc_Size_Saddle_Part_2.zip
+[normal-part-1-choc-mx]: ./Production/Choc%20Stem%20%2B%20MX%20Size/Choc_Stem_MX_Size_Normal_Part_1.zip
+[normal-part-2-choc-mx]: ./Production/Choc%20Stem%20%2B%20MX%20Size/Choc_Stem_MX_Size_Normal_Part_2.zip
+[normal-part-3-choc-mx]: ./Production/Choc%20Stem%20%2B%20MX%20Size/Choc_Stem_MX_Size_Normal_Part_3.zip
 
-[normal-part-1-mx]: ./Production/MX/MX_Stem_MX_Size_Normal_Part_1.zip
-[normal-part-2-mx]: ./Production/MX/MX_Stem_MX_Size_Normal_Part_2.zip
+[normal-part-1-mx]: ./Production/MX%20Stem%20%2B%20MX%20Size/MX_Stem_MX_Size_Normal_Part_1.zip
+[normal-part-2-mx]: ./Production/MX%20Stem%20%2B%20MX%20Size/MX_Stem_MX_Size_Normal_Part_2.zip
+[normal-part-3-mx]: ./Production/MX%20Stem%20%2B%20MX%20Size/MX_Stem_MX_Size_Normal_Part_3.zip
 
-[saddle-part-1-mx]: ./Production/MX/MX_Stem_MX_Size_Saddle_Part_1.zip
-[saddle-part-2-mx]: ./Production/MX/MX_Stem_MX_Size_Saddle_Part_2.zip
+[normal-part-1-mx-choc]: ./Production/MX%20Stem%20%2B%20Choc%20Size/MX_Stem_Choc_Size_Normal_Part_1.zip
+[normal-part-2-mx-choc]: ./Production/MX%20Stem%20%2B%20Choc%20Size/MX_Stem_Choc_Size_Normal_Part_2.zip
+[normal-part-3-mx-choc]: ./Production/MX%20Stem%20%2B%20Choc%20Size/MX_Stem_Choc_Size_Normal_Part_3.zip
+
+[saddle-part-1-choc]: ./Production/Choc%20Stem%20%2B%20Choc%20Size/Choc_Stem_Choc_Size_Saddle_Part_1.zip
+[saddle-part-2-choc]: ./Production/Choc%20Stem%20%2B%20Choc%20Size/Choc_Stem_Choc_Size_Saddle_Part_2.zip
+[saddle-part-3-choc]: ./Production/Choc%20Stem%20%2B%20Choc%20Size/Choc_Stem_Choc_Size_Saddle_Part_3.zip
+
+[saddle-part-1-choc-mx]: ./Production/Choc%20Stem%20%2B%20MX%20Size/Choc_Stem_MX_Size_Saddle_Part_1.zip
+[saddle-part-2-choc-mx]: ./Production/Choc%20Stem%20%2B%20MX%20Size/Choc_Stem_MX_Size_Saddle_Part_2.zip
+[saddle-part-3-choc-mx]: ./Production/Choc%20Stem%20%2B%20MX%20Size/Choc_Stem_MX_Size_Saddle_Part_3.zip
+
+[saddle-part-1-mx]: ./Production/MX%20Stem%20%2B%20MX%20Size/MX_Stem_MX_Size_Saddle_Part_1.zip
+[saddle-part-2-mx]: ./Production/MX%20Stem%20%2B%20MX%20Size/MX_Stem_MX_Size_Saddle_Part_2.zip
+[saddle-part-3-mx]: ./Production/MX%20Stem%20%2B%20MX%20Size/MX_Stem_MX_Size_Saddle_Part_3.zip
+
+[saddle-part-1-mx-choc]: ./Production/MX%20Stem%20%2B%20Choc%20Size/MX_Stem_Choc_Size_Saddle_Part_1.zip
+[saddle-part-2-mx-choc]: ./Production/MX%20Stem%20%2B%20Choc%20Size/MX_Stem_Choc_Size_Saddle_Part_2.zip
+[saddle-part-3-mx-choc]: ./Production/MX%20Stem%20%2B%20Choc%20Size/MX_Stem_Choc_Size_Saddle_Part_3.zip
 
 ## Can I use these models for a production and sale?
 
