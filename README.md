@@ -1,5 +1,7 @@
 ![](./Assets/KLP_Lame_Preview_All_New.jpg)
 
+![](./Assets/KLP_Lame_Preview_1.5U.jpg)
+
 # KLP Lamé — Kailh Choc & MX Keycaps
 
 Sculpted and curved keycaps for Kailh Choc and MX switches. Here is a project structure:
@@ -7,15 +9,17 @@ Sculpted and curved keycaps for Kailh Choc and MX switches. Here is a project st
 | Folder         | Description                                                                                   |
 | :------------- | :-------------------------------------------------------------------------------------------- |
 | **Assets**     | Various images and actual photos of keycaps                                                   |
-| **Blender**    | Blender files for [Combined Versions](#how-to-print) and rendering preview image              |
+| **Blender**    | Blender files for preview image render                                                        |
 | **Fusion 360** | Source files for [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview) |
 | **Production** | Combined STL 3D models suitable for 3D-Printing services (like [JLC3DP](https://jlc3dp.com))  |
 | **STEP**       | 3D models in STEP format for any CAD or Slicer software                                       |
 | **STL**        | 3D models in STL format for any CAD or Slicer software                                        |
 
-> `STEP` and `STL` folders contain all combinations of Choc/MX Stem + Choc/MX Size.<br>There is also `90 deg Rotated` variants for Choc Stem.
+> `STEP` and `STL` folders contain all combinations of Choc/MX Stem + Choc/MX Size.
+>
+> There is also `90 deg Rotated` variants for Choc Stem.
 
-There are currently 7 variants of keycaps:
+There are currently 7 variants of 1U keycaps:
 | Variant           | Description                                                                         |
 | :---------------- | :---------------------------------------------------------------------------------- |
 | **Normal**        | Just a flat keycap profile with a small recess, that is soothing for fingers        |
@@ -25,6 +29,15 @@ There are currently 7 variants of keycaps:
 | **Saddle**        | Same as Thumb, but top profile has two symmetrical cuts                             |
 | **Saddle Tilted** | Tilted version of Saddle. Same 15° and height compensation                          |
 | **Saddle Homing** | Has three little bumps that is useful to determine home positions                   |
+
+And also 5 variants of 1.5U keycaps:
+| Variant      | Description                                                                  |
+| :----------- | :--------------------------------------------------------------------------- |
+| **Normal**   | Just a flat keycap profile with a small recess, that is soothing for fingers |
+| **Thumb H**  | 1.5U variant of Thumb. Horizontal                                            |
+| **Thumb V**  | 1.5U variant of Thumb. Vertical (stem is rotated)                            |
+| **Saddle H** | 1.5U variant of Saddle. Horizontal                                           |
+| **Saddle V** | 1.5U variant of Saddle. Vertical (stem is rotated)                           |
 
 ## What keycaps do I need for my keyboard?
 
@@ -111,6 +124,8 @@ Yes. But you must leave a mention of this repository/author to end users.
 Yes. Rules are the same. Give a credit to the author.
 
 ## Changelog
+v1.5u
+- [Models] Well, 1.5U keycap sizes for both Choc/MX Stem + Choc/MX Size.
 
 v1.4
 - [Models] Updated Choc Stem to be compatible with silent choc switches.
