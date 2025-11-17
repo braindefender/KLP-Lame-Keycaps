@@ -156,6 +156,9 @@ v1.0
 
 ### From various awesome people
 
+![](./Assets/reddit-splayed-sweep-v0-8q6auwej0v1g1.webp)
+By [u/unspecified-work](https://www.reddit.com/user/unspecified-work/) from [Reddit](https://www.reddit.com/r/ErgoMechKeyboards/comments/1oznwnv/splayed_sweep/)
+
 ![](./Assets/reddit-socopopes-9cws8sotb1bd1.jpg)
 By [u/socopopes](https://www.reddit.com/user/socopopes/) from [Reddit](https://www.reddit.com/r/ErgoMechKeyboards/comments/1dx9d7j/down_14_more_keys_only_34_more_to_go/)
 
@@ -164,9 +167,6 @@ By [u/bert_plasschaert](https://www.reddit.com/user/bert_plasschaert/) from [Red
 
 ![](./Assets/telegram-ergonautkb_ru-001.jpg)
 By [proostas](https://t.me/proostas) from [Ergonaut Keyboards Ru](https://t.me/ergonautkb_ru)
-
-![](./Assets/unknown-8j3bn7a913sf4.jpg)
-By unknown from [KlavaOrgWork](https://t.me/klavaorgwork)
 
 ### Original photos
 
