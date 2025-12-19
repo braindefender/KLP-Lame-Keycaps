@@ -82,6 +82,11 @@ It is best to position the model more vertically to avoid tactile layer-to-layer
 | Saddle Part 2 | [Download][saddle-part-2-choc] | [Download][saddle-part-2-choc-mx] | [Download][saddle-part-2-mx] | [Download][saddle-part-2-mx-choc] | - 4 × Saddle Tilted<br/>- 4 × Saddle<br/>- 1 × Saddle Homing |
 | Saddle Part 3 | [Download][saddle-part-3-choc] | [Download][saddle-part-3-choc-mx] | [Download][saddle-part-3-mx] | [Download][saddle-part-3-mx-choc] | - 9 × Saddle Tilted                                          |
 
+### Thumbs
+
+| File          | Choc Stem + Choc Size          | Choc Stem + MX Size               | MX Stem + MX Size            | MX Stem + Choc Size               | Kinds                                                        |
+| :------------ | :----------------------------- | :-------------------------------- | :--------------------------- | :-------------------------------- | ------------------------------------------------------------ |
+| Thumbs        | [Download][thumbs-part-1-choc] | [Download][thumbs-part-1-choc-mx] | [Download][thumbs-part-1-mx] | [Download][thumbs-part-1-mx-choc] | - 9 × Thumb                                                  |
 
 [normal-part-1-choc]: ./Production/Choc%20Stem%20%2B%20Choc%20Size/Choc_Stem_Choc_Size_Normal_Part_1.zip
 [normal-part-2-choc]: ./Production/Choc%20Stem%20%2B%20Choc%20Size/Choc_Stem_Choc_Size_Normal_Part_2.zip
@@ -114,6 +119,11 @@ It is best to position the model more vertically to avoid tactile layer-to-layer
 [saddle-part-1-mx-choc]: ./Production/MX%20Stem%20%2B%20Choc%20Size/MX_Stem_Choc_Size_Saddle_Part_1.zip
 [saddle-part-2-mx-choc]: ./Production/MX%20Stem%20%2B%20Choc%20Size/MX_Stem_Choc_Size_Saddle_Part_2.zip
 [saddle-part-3-mx-choc]: ./Production/MX%20Stem%20%2B%20Choc%20Size/MX_Stem_Choc_Size_Saddle_Part_3.zip
+
+[thumbs-part-1-choc]: ./Production/Choc%20Stem%20%2B%20Choc%20Size/Choc_Stem_Choc_Size_Thumbs.zip
+[thumbs-part-1-choc-mx]: ./Production/Choc%20Stem%20%2B%20MX%20Size/Choc_Stem_MX_Size_Thumbs.zip
+[thumbs-part-1-mx]: ./Production/MX%20Stem%20%2B%20MX%20Size/MX_Stem_MX_Size_Thumbs.zip
+[thumbs-part-1-mx-choc]: ./Production/MX%20Stem%20%2B%20Choc%20Size/MX_Stem_Choc_Size_Thumbs.zip
 
 ## Can I use these models for a production and sale?
 
