@@ -60,6 +60,41 @@ or
 |     10 | Normal        | For home row            |
 |      6 | Thumb         | For thumbs              |
 
+## Where to buy?
+
+> Use middle click or tap & hold to open in new tab
+
+<a href="https://aliexpress.ru/wholesale?SearchText=klp+lame">
+  <img src="./Assets/shops/aliexpress.png" alt="aliexpress.ru" />
+</a>
+<a href="https://ergosplits.ru/item/219">
+  <img src="./Assets/shops/ergosplits.png" alt="ergosplits.ru" />
+</a>
+<a href="https://fkcaps.com/collections/klp-lame">
+  <img src="./Assets/shops/fkcaps.png" alt="fkcaps.com" />
+</a>
+<a href="https://holykeebs.com/products/klp-lame-keycaps">
+  <img src="./Assets/shops/holykeebs.png" alt="holykeebs.com" />
+</a>
+<a href="https://www.keebart.com/products/klp-lame-keycaps">
+  <img src="./Assets/shops/keebart.png" alt="keebart.com" />
+</a>
+<a href="https://keeb.supply/search?q=Lame">
+  <img src="./Assets/shops/keebsupply.png" alt="keeb.supply" />
+</a>
+<a href="https://keycapsss.com/KLP-Lame-Ergonomic-Keycaps-Choc/KC10269">
+  <img src="./Assets/shops/keycapsss.png" alt="keycapsss.com" />
+</a>
+<a href="https://typeractive.xyz/products/klp-lame-sculpted-keycaps">
+  <img src="./Assets/shops/typeractive.png" alt="typeractive.xyz" />
+</a>
+<a href="https://shop.yushakobo.jp/search?q=Lame">
+  <img src="./Assets/shops/yushakobo.png" alt="yushakobo.jp" />
+</a>
+<a href="https://yuzukeycaps.com">
+  <img src="./Assets/shops/yuzukeycaps.png" alt="yuzukeycaps.com" />
+</a>
+
 ## How to print?
 
 It is best to position the model more vertically to avoid tactile layer-to-layer bumps. Personally, I use 45° or 75° angle, but it's up to you.
@@ -84,9 +119,9 @@ It is best to position the model more vertically to avoid tactile layer-to-layer
 
 ### Thumbs
 
-| File          | Choc Stem + Choc Size          | Choc Stem + MX Size               | MX Stem + MX Size            | MX Stem + Choc Size               | Kinds                                                        |
-| :------------ | :----------------------------- | :-------------------------------- | :--------------------------- | :-------------------------------- | ------------------------------------------------------------ |
-| Thumbs        | [Download][thumbs-part-1-choc] | [Download][thumbs-part-1-choc-mx] | [Download][thumbs-part-1-mx] | [Download][thumbs-part-1-mx-choc] | - 9 × Thumb                                                  |
+| File   | Choc Stem + Choc Size          | Choc Stem + MX Size               | MX Stem + MX Size            | MX Stem + Choc Size               | Kinds       |
+| :----- | :----------------------------- | :-------------------------------- | :--------------------------- | :-------------------------------- | ----------- |
+| Thumbs | [Download][thumbs-part-1-choc] | [Download][thumbs-part-1-choc-mx] | [Download][thumbs-part-1-mx] | [Download][thumbs-part-1-mx-choc] | - 9 × Thumb |
 
 [normal-part-1-choc]: ./Production/Choc%20Stem%20%2B%20Choc%20Size/Choc_Stem_Choc_Size_Normal_Part_1.zip
 [normal-part-2-choc]: ./Production/Choc%20Stem%20%2B%20Choc%20Size/Choc_Stem_Choc_Size_Normal_Part_2.zip
