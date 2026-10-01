@@ -67,6 +67,9 @@ or
 <a href="https://aliexpress.ru/wholesale?SearchText=klp+lame">
   <img src="./Assets/shops/aliexpress.png" alt="aliexpress.ru" />
 </a>
+<a href="https://shop.beekeeb.com/search?q=Lame">
+  <img src="./Assets/shops/beekeeb.png" alt="beekeeb.com" />
+</a>
 <a href="https://ergosplits.ru/item/219">
   <img src="./Assets/shops/ergosplits.png" alt="ergosplits.ru" />
 </a>
