@@ -94,7 +94,7 @@ or
 <a href="https://shop.yushakobo.jp/search?q=Lame">
   <img src="./Assets/shops/yushakobo.png" alt="yushakobo.jp" />
 </a>
-<a href="https://yuzukeycaps.com">
+<a href="https://yuzukeycaps.com/klp-lame">
   <img src="./Assets/shops/yuzukeycaps.png" alt="yuzukeycaps.com" />
 </a>
 
